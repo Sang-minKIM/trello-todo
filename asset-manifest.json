@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/trello-todo/static/js/main.b1c8ebec.js",
+    "static/js/787.20c63e1b.chunk.js": "/trello-todo/static/js/787.20c63e1b.chunk.js",
+    "index.html": "/trello-todo/index.html",
+    "main.b1c8ebec.js.map": "/trello-todo/static/js/main.b1c8ebec.js.map",
+    "787.20c63e1b.chunk.js.map": "/trello-todo/static/js/787.20c63e1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b1c8ebec.js"
+  ]
+}
